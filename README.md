@@ -1,4 +1,4 @@
-# 🚧 RoadVision
+# RoadVision
 ### Computer-Vision-Based Road Damage Detection and Reporting System
 
 **RoadVision** is a computer-vision-based application designed to detect visible road damage from recorded road videos and convert detected damage into location-tagged reports.
@@ -231,7 +231,7 @@ The detection model will be evaluated using:
 
 ## 📦 Project Modules
 
-Modules and responsibility-
+### Modules and responsibility-
 
  Video Recording and Input - Records or accepts road videos
  Video-to-Frame Conversion - Extracts individual frames 
