@@ -286,14 +286,6 @@ RoadVision provides potential road-damage detections and user-verified reports. 
 
 ---
 
-## 👥 Project Team
-
-**Developed by:** Bikashita27 and team
-
-GitHub: [@Bikashita27](https://github.com/Bikashita27)
-
----
-
 ## 📚 References
 
 1. Road Damage Dataset 2022 (RDD2022).
